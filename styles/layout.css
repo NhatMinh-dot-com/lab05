@@ -44,11 +44,13 @@ table {
     margin: auto;
 }
 #lists {
+    text-align: center;
     float: left;
     width: 45%;
 }
 
 #hyperlinks {
+    text-align: center;
     float: left;
     width: 45%;
     clear: both;
