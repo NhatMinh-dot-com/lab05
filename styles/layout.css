@@ -6,6 +6,14 @@ aside {
     border-radius: 15px;
 }
 
+header {
+    border: 1px solid rgb(155, 154, 154);
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: rgb(155, 154, 154);
+    text-align: center;
+}
+
 footer {
     border-top: 4px double darkgray;
 }
@@ -15,6 +23,7 @@ aside {
     float: right;
     box-shadow: 10px 10px 5px #aaaaaa;
 }
+
 .menu {
     display: inline-block;
 }
